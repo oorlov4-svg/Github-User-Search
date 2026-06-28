@@ -25,7 +25,7 @@
 ### GitHub README-Beschreibung
 
 > **GitHub User Search** is a responsive web application built with HTML, CSS, and JavaScript. It allows users to search for GitHub profiles and displays real-time information such as avatar, bio, repositories, followers, and following using the GitHub REST API.
-![main](images/search.jpg)
+![main](search.jpg)
 ---
 
 ### Kommentar für GitHub
