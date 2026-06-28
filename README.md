@@ -1,5 +1,4 @@
 # Github-User-Search
-Hier ist eine professionelle Beschreibung und ein Kommentartext für ein **GitHub User Search**-Projekt mit **HTML, CSS und JavaScript**.
 
 ### Projektbeschreibung
 
